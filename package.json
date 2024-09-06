@@ -1,5 +1,5 @@
 {
-  "name": "node-linux",
+  "name": "@codeclimbers/node-linux",
   "version": "0.1.12",
   "description": "Support daemon creation and management on Linux.",
   "keywords": [
@@ -12,7 +12,10 @@
     "debian",
     "ubuntu"
   ],
-  "author": "Corey Butler <corey@coreybutler.com>",
+  "authors": [
+    "Corey Butler <corey@coreybutler.com>",
+    "Paul Hovley <rphovley@gmail.com>"
+  ],
   "devDependencies": {
     "mocha": "*"
   },
